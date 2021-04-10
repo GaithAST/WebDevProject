@@ -230,7 +230,7 @@ a{
     position: relative;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-110%);
+    transform: translate(-50%,-130%);
 }
 button a{
     padding: 5px;
