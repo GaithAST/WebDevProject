@@ -1,0 +1,18 @@
+body{
+    background-image: url(game-images/background.jpeg);
+    background-size: cover;
+    overflow: hidden;
+}
+.header{
+    margin: 0%;
+    padding: 0%;
+    height: 250px;
+    text-align: center;
+}
+.nurse{
+    position: absolute;
+}
+.covid{
+    float: right;
+    padding-right: 10px;
+}
